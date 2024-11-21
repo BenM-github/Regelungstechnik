@@ -1,7 +1,8 @@
 \documentclass{article}
 
 \usepackage{multicol}
-\usepackage{graphicx}
+\usepackage{graphicx} %\includegraphics[width=\textwidth]{path.png}
+\graphicspath{ {img/} }
 
 \title{Regelungstechnik}
 \author{Prof. Dröge}
@@ -11,10 +12,8 @@
 
 \maketitle
 
-\section*{\centering General}
-
 \newpage
-\section*{**.**.2024}
+\section*{\centering **.**.2024}
 Semester-Anfang muss noch nachgetragen werden
 
 \newpage
@@ -44,8 +43,8 @@ Semester-Anfang muss noch nachgetragen werden
   - Verstärker: bsp. Hebel
 
 \newpage
-\section*{12.11.2024}
-\section*{14.11.2024}
+\section*{\centering 12.11.2024}
+\section*{\centering 14.11.2024}
 letzten zwei Vorlesungen fehlen noch (müssen wegen krankheit nachgetragen werden)
 
 \newpage
@@ -119,5 +118,97 @@ Typische Anwendung der Glieder:
 \end{multicols}
 
 
+\newpage
+\section*{\centering 21.11.2024}
+\subsection*{Standardregelkreis}
+Regelkreis nach DIN 19226 \\
+(Grafik im Script zu finden und bereits angefangen)
+
+\subsection*{Führungs und Störverhalten (Thema 11)}
+Führungsverhalten: Wie reagiert der Regelkreis auf eine Änderung der Führungsgröße (w(t))? \\
+Störverhalten: Wie reagiert der Regelkreis auf eine Änderung der Störgröße (z(t))? \\
+(Grafik im Script zu finden und bereits nachgebastelt)
+
+\subsubsection*{Berechnung der Regelgröße in Abhängigkeit der Führungsgröße}
+$w(s) \rightarrow x(s)$
+\[
+X(s)=(W(s)-X(s)) * G_0(s)
+\]
+$G_0(s)=\frac{X(s)}{E(s)} = \frac{X(s)}{W(s)-X(s)}$
+\[
+X_W(s)=\frac{G_0(s)}{1+G_0(s)} * W(s)
+\]
+\[
+G_{WX}(s)=\frac{X(s)}{W(s)} = \frac{G_0(s)}{1+G_0(s)}
+\]
+
+\subsubsection*{Berechnung der Regelgröße in Abhängigkeit der Führungsgröße}
+$w(s) \rightarrow \epsilon(s)$ (oder auch E(s))
+\[
+E(s)=W(s)-X(s); X(s)=E(s)*G_0(s)
+\]
+\[
+E(s)=W(s)-(E(s)*G_0(s))
+\]
+\[
+E_W(s)=\frac{1}{1+G_0(s)}*W(s)
+\]
+\[
+G_{WE}(s)=\frac{E(s)}{W(s)}=\frac{1}{1+G_0(s)}
+\]
+
+\subsubsection*{Berechnung der Regelgröße in Abhängigkeit der Störgröße}
+$z(s) \rightarrow x(s)$
+\[
+X(s)=-X(s)*G_0(s)+Z(s)
+\]
+\[
+X_Z(s)=\frac{1}{1+G_0(s)}*Z(s)
+\]
+\[
+G_{ZX}(s)=\frac{X_Z(s)}{Z(s)}=\frac{1}{1+G_0(s)}
+\]
+
+\subsubsection*{Berechnung der Regelabweichung in Abhängigkeit der Störgröße}
+$z(s) \rightarrow \epsilon(s)$ (oder auch E(s))
+\[
+E(s)=-X(s); X(s) = E(s) * G_0(s)+Z(s)
+\]
+\[
+E(s)=-(E(s)*G_0(s)+Z(s))
+\]
+\[
+E_Z(s)=-\frac{1}{1+G_0(s)}*Z(s)
+\]
+\[
+G_{ZE}(s)=\frac{E_Z(s)}{Z(s)}=-\frac{1}{1+G_0(s)}
+\]
+
+\subsubsection*{Kombination von Störungs- und Führungsverhalten}
+Führ die Formelsamlung: (Graftk/Zusammenfassung im Script zu finden) \\
+Addition/Überlagerung von Signalen dürfen in linearen Systemen vollzogen werden.
+
+
+\subsection*{Einstellregel (Thema 15)}
+Wie stellt man einen Reglner ein? \\
+\includegraphics[width=\textwidth]{2024_11_21_Wie_stelle_ich_einen_Regler_ein.png}
+(weitere Grafik im Script)\\
+\begin{itemize}
+	\item $T_U$ ist eine Erstatz tot-Zeit
+	\item $T_G$ ist eine Ersatz-Zeit-Konstante
+\end{itemize}
+Zwei Varianten weil eine Regelstrecke mit I-Anteil (ohne Ausgleich) ist nicht begrentzt \\
+(rest ist im Script zu finden)
+
+
 
 \end{document}
+
+
+
+
+
+
+
+
+
