@@ -1,20 +1,26 @@
 \documentclass{article}
 
-\usepackage{multicol}
+% === Useful packages ===
+\usepackage[german]{babel}
+\usepackage[letterpaper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+
+\usepackage{xcolor} % include text colors
+
+% --- manage images ---
 \usepackage{graphicx} %\includegraphics[width=\textwidth]{path.png}
 \graphicspath{ {img/} }
 
-\title{Regelungstechnik}
-\author{Prof. Dröge}
+% --- manage multicols ---
+\usepackage{multicol}
+\usepackage{paracol}
+
+\title{Regelungstechnik  \\ [1ex] \large Fachsemester 3}
+\author{Prof. Dr.-Ing. habil. Klaus-Peter Döge}
 \date{}
 
 \begin{document}
-
 \maketitle
 
-\newpage
-\section*{\centering **.**.2024}
-Semester-Anfang muss noch nachgetragen werden
 
 \newpage
  \section*{\centering 15.10.2024}
@@ -42,10 +48,19 @@ Semester-Anfang muss noch nachgetragen werden
   - Intigrator: bsp. Volumenstrom wird in Volumen aufintigriert
   - Verstärker: bsp. Hebel
 
+
 \newpage
-\section*{\centering 12.11.2024}
-\section*{\centering 14.11.2024}
-letzten zwei Vorlesungen fehlen noch (müssen wegen krankheit nachgetragen werden)
+\section*{\centering 17.10.2024 (Semesteranfang muss noch nachgetragen werden)}
+\section*{\centering 22.10.2024 (Semesteranfang muss noch nachgetragen werden)}
+\section*{\centering 24.10.2024 (Semesteranfang muss noch nachgetragen werden)}
+\section*{\centering 29.10.2024 (Semesteranfang muss noch nachgetragen werden)}
+\section*{\centering 05.11.2024 (Semesteranfang muss noch nachgetragen werden)}
+\section*{\centering 07.11.2024 (Semesteranfang muss noch nachgetragen werden)}
+
+
+\newpage
+\section*{\centering 12.11.2024 (muss wegen Krankheit noch nachgetragen werden)}
+\section*{\centering 14.11.2024 (muss wegen Krankheit noch nachgetragen werden)}
 
 \newpage
 \section*{\centering 19.11.2024}
@@ -201,6 +216,53 @@ Zwei Varianten weil eine Regelstrecke mit I-Anteil (ohne Ausgleich) ist nicht be
 (rest ist im Script zu finden)
 
 
+\newpage
+\section*{26.11.2024}
+\subsection*{Regelabweichung (Thema 12)}
+(für weitere Grafiken oder Unklarheiten durch fehlende Grafiken bitte in das Script der Vorlesung schauen) \\
+\includegraphics[width=\textwidth]{2024_11_26_standard_regelkreis.png}
+($W(s) = \frac{W_0}{s}$) \\
+Der Standardregelkreis fasst kein Messglied. (Es wird trotzdem gemessen. Es wird nur nicht abgebildet) \\
+\begin{multicols}{2}
+	\includegraphics{2024_11_26_regelabweichung.png}
+
+	\columnbreak
+	
+	\begin{center} $e = w - x$ \end{center}
+	Die Berechnung der Regelabweichung erfolgt im stationären Zustand. $\to $ Bleibende Regelabweichung
+\end{multicols}
+\vspace{1em}
+(Berechnung des Vorlesungs / Script Bsp.)
+\begin{itemize}
+	\item P-Regler
+	\begin{center}
+	$\lim_{t \to \infty} e(t) = \lim_{s \to 0} E(s) \cdot \textcolor{red}{s}$ \\ \mbox{} \\
+	$E_w(s) = \frac{1}{1+G_0(s)} \cdot W(s)$ mit $G_0(s) = G_R(S) \cdot G_S(s)$; $G_R(s) = K$ \\ \mbox{} \\
+	$E_W(s) = \frac{1}{1+a \cdot K} \cdot \frac{W_0}{s}$ \\ \mbox{} \\
+	$\lim_{t \to \infty} e(t) = \lim_{s \to 0} \frac{1}{1+a \cdot K} * \frac{W_0}{s} \cdot \textcolor{red}{s} = \frac{W_0}{1+a \cdot K}$
+	\end{center}
+	a - Verstärkung des Öldruckpresse\\
+	(Vorlesungs/Script Bsp. würde vermutlich ein I-Anteil beinhalten, um mehr Genauigkeit zu erhalten.)
+
+	\item I-Regler
+	\begin{center}
+	$G_R(s) = \frac{1}{sT_N}$ \\ \mbox{} \\
+	$E_W(s) = \frac{1}{1+G_0(s)} \cdot W(s) = \frac{1}{1+a \cdot \frac{1}{T_Ns}} \cdot \frac{W_0}{s}$ \\ \mbox{} \\
+	$\lim_{t \to \infty} e(t) = \lim_{s \to 0} \frac{1}{1+a \cdot \frac{1}{T_Ns}} \cdot \frac{W_0}{s} \cdot \textcolor{red}{s}$ \\ \mbox{} \\
+	$\lim_{s \to 0} \frac{1 W_0}{1 + \frac{a}{T_Ns}} = 0$ \\ \mbox{} \\
+	$\lim_{s \to 0} \frac{s \cdot W_0}{s + \frac{a}{T_N}} = 0$
+	\end{center}
+	(I-Regler ist für die meisten Fälle zu langsam)
+	
+	\item PI-Regler \\
+	Dieser Regler ist schnell und genau genug.
+\end{itemize}
+
+\paragraph{Ein weiters Beispiel für das Selbststudium (im Script)} \mbox{} \\
+PT2-Glied $\to$ Nicht Schwinungsfähig
+\begin{center}
+	$E(s) = W(s) - [uebertragungsfunktionen] E(s)$
+\end{center}
 
 \end{document}
 

@@ -1,9 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.18)  21 NOV 2024 09:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.18)  26 NOV 2024 12:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./vl.tex
-(vl.tex
+**"C:/Users/ZOBMUEL2/OneDrive - Carl Zeiss AG/projects/private_regelungstechnik
+/vl.tex"
+
+(C:/Users/ZOBMUEL2/OneDrive - Carl Zeiss AG/projects/private_regelungstechnik/v
+l.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -23,26 +26,132 @@ File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
+(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2024/01/07 v24.1 The Babel package
+\babel@savecnt=\count195
+\U@D=\dimen141
+\l@unhyphenated=\language79
+
+(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def
+)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count196
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\german.
+ldf
+Language: german 2024/01/19 v2.14 German support for babel (pre-1996 orthograph
+y)
+
+(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\germanb
+.ldf
+Language: germanb 2024/01/19 v2.14 German support for babel (pre-1996 orthograp
+hy)
+Package babel Info: Making " an active character on input line 139.
+)))
+(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/de\ba
+bel-german.tex
+Package babel Info: Importing font and identification data for german
+(babel)             from babel-de-1901.ini. Reported on input line 25.
+)
+(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
+y
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count197
+\Gm@cntv=\count198
+\c@Gm@tempcnt=\count199
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks18
+
+(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cf
+g))
+(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.c
+fg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.
+def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+)
+(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.l
+tx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.st
+y
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.st
+y
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphic
+s.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
 (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
-\c@tracingmulticols=\count195
+\c@tracingmulticols=\count266
 \mult@box=\box51
-\multicol@leftmargin=\dimen141
-\c@unbalance=\count196
-\c@collectmore=\count197
-\doublecol@number=\count198
-\multicoltolerance=\count199
-\multicolpretolerance=\count266
-\full@width=\dimen142
-\page@free=\dimen143
-\premulticols=\dimen144
-\postmulticols=\dimen145
+\multicol@leftmargin=\dimen152
+\c@unbalance=\count267
+\c@collectmore=\count268
+\doublecol@number=\count269
+\multicoltolerance=\count270
+\multicolpretolerance=\count271
+\full@width=\dimen153
+\page@free=\dimen154
+\premulticols=\dimen155
+\postmulticols=\dimen156
 \multicolsep=\skip50
 \multicolbaselineskip=\skip51
 \partial@page=\box52
 \last@line=\box53
 \mc@boxedresult=\box54
-\maxbalancingoverflow=\dimen146
+\maxbalancingoverflow=\dimen157
 \mult@rightbox=\box55
 \mult@grightbox=\box56
 \mult@firstbox=\box57
@@ -83,80 +192,118 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \@tempa=\box92
 \@tempa=\box93
 \@tempa=\box94
-\c@minrows=\count267
-\c@columnbadness=\count268
-\c@finalcolumnbadness=\count269
-\last@try=\dimen147
-\multicolovershoot=\dimen148
-\multicolundershoot=\dimen149
+\c@minrows=\count272
+\c@columnbadness=\count273
+\c@finalcolumnbadness=\count274
+\last@try=\dimen158
+\multicolovershoot=\dimen159
+\multicolundershoot=\dimen160
 \mult@nat@firstbox=\box95
 \colbreak@box=\box96
-\mc@col@check@num=\count270
+\mc@col@check@num=\count275
 )
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.st
-y
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks17
-)
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.st
-y
-Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-)
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphic
-s.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 107.
-
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.
-def
-File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
-))
-\Gin@req@height=\dimen150
-\Gin@req@width=\dimen151
+(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/paracol\paracol.sty
+Package: paracol 2024/10/22 1.36 typeset columns in parallel
+\pcol@currcol=\count276
+\pcol@nextcol=\count277
+\pcol@ncol=\count278
+\pcol@ncolleft=\count279
+\pcol@page=\count280
+\pcol@basepage=\count281
+\pcol@toppage=\count282
+\pcol@footnotebase=\count283
+\pcol@nfootnotes=\count284
+\pcol@mcid=\count285
+\pcol@prevdepth=\dimen161
+\pcol@colht=\dimen162
+\pcol@textfloatsep=\dimen163
+\pcol@lrmargin=\dimen164
+\pagerim=\dimen165
+\pcol@topskip=\skip52
+\belowfootnoteskip=\skip53
+\pcol@topfnotes=\box97
+\pcol@prespan=\box98
+\pcol@rightpage=\box99
+\pcol@colorstack@saved=\box100
+\pcol@tempboxa=\box101
+\pcol@tempboxb=\box102
+\pcol@colorins=\insert252
+\pcol@everyvbox=\toks19
 )
 (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-
 pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count271
-\l__pdf_internal_box=\box97
-) (vl.aux)
+\l__color_backend_stack_int=\count286
+\l__pdf_internal_box=\box103
+)
+(C:/Users/ZOBMUEL2/OneDrive - Carl Zeiss AG/projects/private_regelungstechnik\v
+l.aux)
 \openout1 = `vl.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 443.57848pt, 85.35826pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=443.57848pt
+* \textheight=681.15898pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=49.79231pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 
 (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf
 .mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count272
-\scratchdimen=\dimen152
-\scratchbox=\box98
-\nofMPsegments=\count273
-\nofMParguments=\count274
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count275
-\MPscratchDim=\dimen153
-\MPnumerator=\count276
-\makeMPintoPDFobject=\count277
-\everyMPtoPDFconversion=\toks19
+\scratchcounter=\count287
+\scratchdimen=\dimen166
+\scratchbox=\box104
+\nofMPsegments=\count288
+\nofMParguments=\count289
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count290
+\MPscratchDim=\dimen167
+\MPnumerator=\count291
+\makeMPintoPDFobject=\count292
+\everyMPtoPDFconversion=\toks21
 )
 (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopd
 f-base.sty
@@ -169,81 +316,102 @@ s.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 13.
+(Font)              <12> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 13.
+(Font)              <8> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 13.
+(Font)              <6> on input line 22.
  [1
 
-{C:/Users/ZOBMUEL2/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
-Overfull \hbox (6.23657pt too wide) in paragraph at lines 28--30
-[]\OT1/cmr/m/n/10 y) Stellgr^^?o^^Ye: - physikalis-che Gr^^?o^^Ye, welche die R
-egelgr^^?o^^Ye auf eine gew^^?unschte
- []
-
-[3] [4]
+{C:/Users/ZOBMUEL2/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] [
+4]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 55.
+(Font)              <7> on input line 70.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 55.
-
-Overfull \hbox (77.95703pt too wide) in paragraph at lines 56--57
-[]\OT1/cmr/m/n/10 Sprungfunktion $\OML/cmm/m/it/10 \OT1/cmr/m/n/10 (\OML/cmm/m
-/it/10 t\OT1/cmr/m/n/10 )[]$ $\OMS/cmsy/m/n/10 !$ []\OT1/cmr/m/n/10 Ubergangsfu
-nktion
- []
-
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 75--77
+(Font)              <5> on input line 70.
+ [5]
+Underfull \hbox (badness 10000) in paragraph at lines 90--92
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--98
-\OT1/cmr/m/n/10 Ein-schalt-mo-ment un-
- []
-
-<19_11_2024_reglungstechnik.png, id=26, 499.8675pt x 351.3125pt>
-File: 19_11_2024_reglungstechnik.png Graphic file (type png)
-<use 19_11_2024_reglungstechnik.png>
-Package pdftex.def Info: 19_11_2024_reglungstechnik.png  used on input line 100
-.
-(pdftex.def)             Requested size: 207.0021pt x 145.48105pt.
-[6 <./19_11_2024_reglungstechnik.png>]
-Overfull \hbox (23.63954pt too wide) in paragraph at lines 128--131
-\OT1/cmr/m/n/10 F^^?uhrungsverhalten: Wie reagiert der Regelkreis auf eine []An
-derung der F^^?uhrungsgr^^?o^^Ye
- []
-
-[7]
+<img/19_11_2024_reglungstechnik.png, id=26, 499.8675pt x 351.3125pt>
+File: img/19_11_2024_reglungstechnik.png Graphic file (type png)
+<use img/19_11_2024_reglungstechnik.png>
+Package pdftex.def Info: img/19_11_2024_reglungstechnik.png  used on input line
+ 115.
+(pdftex.def)             Requested size: 266.14978pt x 187.05779pt.
+[6 <C:/Users/ZOBMUEL2/OneDrive - Carl Zeiss AG/projects/private_regelungstechni
+k/img/19_11_2024_reglungstechnik.png>] [7]
 <img/2024_11_21_Wie_stelle_ich_einen_Regler_ein.png, id=39, 592.2125pt x 261.97
 874pt>
 File: img/2024_11_21_Wie_stelle_ich_einen_Regler_ein.png Graphic file (type png
 )
 <use img/2024_11_21_Wie_stelle_ich_einen_Regler_ein.png>
 Package pdftex.def Info: img/2024_11_21_Wie_stelle_ich_einen_Regler_ein.png  us
-ed on input line 194.
-(pdftex.def)             Requested size: 345.0pt x 152.62334pt.
+ed on input line 209.
+(pdftex.def)             Requested size: 443.57848pt x 196.23174pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--196
+Underfull \hbox (badness 10000) in paragraph at lines 208--211
 
  []
 
-[8 <./img/2024_11_21_Wie_stelle_ich_einen_Regler_ein.png>] (vl.aux)
+[8 <C:/Users/ZOBMUEL2/OneDrive - Carl Zeiss AG/projects/private_regelungstechni
+k/img/2024_11_21_Wie_stelle_ich_einen_Regler_ein.png>]
+<img/2024_11_26_standard_regelkreis.png, id=44, 592.2125pt x 169.63374pt>
+File: img/2024_11_26_standard_regelkreis.png Graphic file (type png)
+<use img/2024_11_26_standard_regelkreis.png>
+Package pdftex.def Info: img/2024_11_26_standard_regelkreis.png  used on input 
+line 223.
+(pdftex.def)             Requested size: 443.57848pt x 127.0619pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--227
+
+ []
+
+<img/2024_11_26_regelabweichung.png, id=45, 185.94469pt x 107.65219pt>
+File: img/2024_11_26_regelabweichung.png Graphic file (type png)
+<use img/2024_11_26_regelabweichung.png>
+Package pdftex.def Info: img/2024_11_26_regelabweichung.png  used on input line
+ 227.
+(pdftex.def)             Requested size: 185.94421pt x 107.65192pt.
+[9 <C:/Users/ZOBMUEL2/OneDrive - Carl Zeiss AG/projects/private_regelungstechni
+k/img/2024_11_26_standard_regelkreis.png> <C:/Users/ZOBMUEL2/OneDrive - Carl Ze
+iss AG/projects/private_regelungstechnik/img/2024_11_26_regelabweichung.png>]
+
+LaTeX Warning: Command \" invalid in math mode on input line 264.
+
+! Please use \mathaccent for accents in math mode.
+\lower@umlaut ...imen 5\font \dimen@ \fi }\accent 
+                                                  \csname \f@encoding dqpos\...
+l.264 	$E(s) = W(s) - [Ü
+                         bertragungsfunktionen] E(s)$
+? 
+! Missing { inserted.
+<to be read again> 
+                   \fontdimen 
+l.264 	$E(s) = W(s) - [Ü
+                         bertragungsfunktionen] E(s)$
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.264 ... = W(s) - [Übertragungsfunktionen] E(s)$
+                                                  
+? 
+[10] (vl.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1464 strings out of 474486
- 25133 string characters out of 5742338
- 1932542 words of memory out of 5000000
- 23782 multiletter control sequences out of 15000+600000
+ 4246 strings out of 474486
+ 72493 string characters out of 5742338
+ 1936542 words of memory out of 5000000
+ 26512 multiletter control sequences out of 15000+600000
  562659 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,7n,65p,204b,207s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,7n,65p,330b,206s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\ZOBMUEL2\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\t
 crm1000.pk><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmbx10.pfb><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKTeX/fonts/t
@@ -255,12 +423,13 @@ ZOBMUEL2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
 m/cmr12.pfb><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /amsfonts/cm/cmr17.pfb><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmr7.pfb><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ZOBMUEL2/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on vl.pdf (8 pages, 163715 bytes).
+ype1/public/amsfonts/cm/cmr5.pfb><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/ZOBMUEL2/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ZOBMUEL2/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on vl.pdf (10 pages, 197212 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
+ 109 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
