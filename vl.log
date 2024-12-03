@@ -1,12 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.18)  26 NOV 2024 12:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.18)  3 DEC 2024 12:55
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**"C:/Users/ZOBMUEL2/OneDrive - Carl Zeiss AG/projects/private_regelungstechnik
-/vl.tex"
-
-(C:/Users/ZOBMUEL2/OneDrive - Carl Zeiss AG/projects/private_regelungstechnik/v
-l.tex
+**"c:/Users/ZOBMUEL2/OneDrive - Carl Zeiss AG/projects/eah_regelungstechnik/vl.tex"
+(c:/Users/ZOBMUEL2/OneDrive - Carl Zeiss AG/projects/eah_regelungstechnik/vl.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -25,15 +23,12 @@ File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-)
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+) (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2024/01/07 v24.1 The Babel package
 \babel@savecnt=\count195
 \U@D=\dimen141
 \l@unhyphenated=\language79
-
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def
-)
+ (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count196
 
@@ -41,36 +36,23 @@ Package: babel 2024/01/07 v24.1 The Babel package
 * Local config file bblopts.cfg used
 *
 (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\german.
-ldf
-Language: german 2024/01/19 v2.14 German support for babel (pre-1996 orthograph
-y)
-
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\germanb
-.ldf
-Language: germanb 2024/01/19 v2.14 German support for babel (pre-1996 orthograp
-hy)
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\german.ldf
+Language: german 2024/01/19 v2.14 German support for babel (pre-1996 orthography)
+ (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\germanb.ldf
+Language: germanb 2024/01/19 v2.14 German support for babel (pre-1996 orthography)
 Package babel Info: Making " an active character on input line 139.
-)))
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/de\ba
-bel-german.tex
+))) (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/de\babel-german.tex
 Package babel Info: Importing font and identification data for german
 (babel)             from babel-de-1901.ini. Reported on input line 25.
-)
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
-y
+) (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+ (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 ) (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+ (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count197
@@ -85,24 +67,15 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen148
 \Gm@layoutvoffset=\dimen149
 \Gm@dimlist=\toks18
-
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cf
-g))
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+ (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
-
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.c
-fg
+ (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
-
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.
-def
+ (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
-)
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.l
-tx)
+) (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
 Package xcolor Info: Model `RGB' extended on input line 1366.
@@ -112,27 +85,20 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
-)
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.st
-y
+) (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.st
-y
+ (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
  (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-)
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphic
-s.cfg
+) (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 )
 \Gin@req@height=\dimen150
 \Gin@req@width=\dimen151
-)
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+) (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \c@tracingmulticols=\count266
 \mult@box=\box51
@@ -201,8 +167,7 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \mult@nat@firstbox=\box95
 \colbreak@box=\box96
 \mc@col@check@num=\count275
-)
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/paracol\paracol.sty
+) (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/paracol\paracol.sty
 Package: paracol 2024/10/22 1.36 typeset columns in parallel
 \pcol@currcol=\count276
 \pcol@nextcol=\count277
@@ -229,31 +194,27 @@ Package: paracol 2024/10/22 1.36 typeset columns in parallel
 \pcol@tempboxb=\box102
 \pcol@colorins=\insert252
 \pcol@everyvbox=\toks19
-)
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-
-pdftex.def
+) (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count286
 \l__pdf_internal_box=\box103
-)
-(C:/Users/ZOBMUEL2/OneDrive - Carl Zeiss AG/projects/private_regelungstechnik\v
-l.aux)
+) (vl.aux)
 \openout1 = `vl.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -278,7 +239,7 @@ LaTeX Font Info:    ... okay on input line 21.
 * \footskip=30.0pt
 * \marginparwidth=49.79231pt
 * \marginparsep=11.0pt
-* \columnsep=10.0pt
+* \columnsep=20.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
@@ -289,9 +250,7 @@ LaTeX Font Info:    ... okay on input line 21.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf
-.mkii
+(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count287
 \scratchdimen=\dimen166
@@ -304,132 +263,91 @@ LaTeX Font Info:    ... okay on input line 21.
 \MPnumerator=\count291
 \makeMPintoPDFobject=\count292
 \everyMPtoPDFconversion=\toks21
-)
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopd
-f-base.sty
+) (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sy
-s.cfg
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\ZOBMUEL2\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 22.
+(Font)              <12> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 22.
+(Font)              <8> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 22.
+(Font)              <6> on input line 25.
  [1
 
-{C:/Users/ZOBMUEL2/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] [
-4]
+{C:/Users/ZOBMUEL2/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] [4]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 70.
+(Font)              <7> on input line 73.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 70.
+(Font)              <5> on input line 73.
  [5]
-Underfull \hbox (badness 10000) in paragraph at lines 90--92
+Underfull \hbox (badness 10000) in paragraph at lines 93--95
 
  []
 
 <img/19_11_2024_reglungstechnik.png, id=26, 499.8675pt x 351.3125pt>
 File: img/19_11_2024_reglungstechnik.png Graphic file (type png)
 <use img/19_11_2024_reglungstechnik.png>
-Package pdftex.def Info: img/19_11_2024_reglungstechnik.png  used on input line
- 115.
+Package pdftex.def Info: img/19_11_2024_reglungstechnik.png  used on input line 118.
 (pdftex.def)             Requested size: 266.14978pt x 187.05779pt.
-[6 <C:/Users/ZOBMUEL2/OneDrive - Carl Zeiss AG/projects/private_regelungstechni
-k/img/19_11_2024_reglungstechnik.png>] [7]
-<img/2024_11_21_Wie_stelle_ich_einen_Regler_ein.png, id=39, 592.2125pt x 261.97
-874pt>
-File: img/2024_11_21_Wie_stelle_ich_einen_Regler_ein.png Graphic file (type png
-)
+[6 <./img/19_11_2024_reglungstechnik.png>] [7]
+<img/2024_11_21_Wie_stelle_ich_einen_Regler_ein.png, id=39, 592.2125pt x 261.97874pt>
+File: img/2024_11_21_Wie_stelle_ich_einen_Regler_ein.png Graphic file (type png)
 <use img/2024_11_21_Wie_stelle_ich_einen_Regler_ein.png>
-Package pdftex.def Info: img/2024_11_21_Wie_stelle_ich_einen_Regler_ein.png  us
-ed on input line 209.
+Package pdftex.def Info: img/2024_11_21_Wie_stelle_ich_einen_Regler_ein.png  used on input line 212.
 (pdftex.def)             Requested size: 443.57848pt x 196.23174pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 208--211
+Underfull \hbox (badness 10000) in paragraph at lines 211--214
 
  []
 
-[8 <C:/Users/ZOBMUEL2/OneDrive - Carl Zeiss AG/projects/private_regelungstechni
-k/img/2024_11_21_Wie_stelle_ich_einen_Regler_ein.png>]
+[8 <./img/2024_11_21_Wie_stelle_ich_einen_Regler_ein.png>]
 <img/2024_11_26_standard_regelkreis.png, id=44, 592.2125pt x 169.63374pt>
 File: img/2024_11_26_standard_regelkreis.png Graphic file (type png)
 <use img/2024_11_26_standard_regelkreis.png>
-Package pdftex.def Info: img/2024_11_26_standard_regelkreis.png  used on input 
-line 223.
+Package pdftex.def Info: img/2024_11_26_standard_regelkreis.png  used on input line 226.
 (pdftex.def)             Requested size: 443.57848pt x 127.0619pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--227
+Underfull \hbox (badness 10000) in paragraph at lines 225--230
 
  []
 
 <img/2024_11_26_regelabweichung.png, id=45, 185.94469pt x 107.65219pt>
 File: img/2024_11_26_regelabweichung.png Graphic file (type png)
 <use img/2024_11_26_regelabweichung.png>
-Package pdftex.def Info: img/2024_11_26_regelabweichung.png  used on input line
- 227.
+Package pdftex.def Info: img/2024_11_26_regelabweichung.png  used on input line 230.
 (pdftex.def)             Requested size: 185.94421pt x 107.65192pt.
-[9 <C:/Users/ZOBMUEL2/OneDrive - Carl Zeiss AG/projects/private_regelungstechni
-k/img/2024_11_26_standard_regelkreis.png> <C:/Users/ZOBMUEL2/OneDrive - Carl Ze
-iss AG/projects/private_regelungstechnik/img/2024_11_26_regelabweichung.png>]
-
-LaTeX Warning: Command \" invalid in math mode on input line 264.
-
-! Please use \mathaccent for accents in math mode.
-\lower@umlaut ...imen 5\font \dimen@ \fi }\accent 
-                                                  \csname \f@encoding dqpos\...
-l.264 	$E(s) = W(s) - [Ü
-                         bertragungsfunktionen] E(s)$
-? 
-! Missing { inserted.
-<to be read again> 
-                   \fontdimen 
-l.264 	$E(s) = W(s) - [Ü
-                         bertragungsfunktionen] E(s)$
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.264 ... = W(s) - [Übertragungsfunktionen] E(s)$
-                                                  
-? 
-[10] (vl.aux)
+[9 <./img/2024_11_26_standard_regelkreis.png> <./img/2024_11_26_regelabweichung.png>] [10]
+<img/2024_12_03_nyquist.png, id=55, 571.13374pt x 123.46124pt>
+File: img/2024_12_03_nyquist.png Graphic file (type png)
+<use img/2024_12_03_nyquist.png>
+Package pdftex.def Info: img/2024_12_03_nyquist.png  used on input line 287.
+(pdftex.def)             Requested size: 354.86412pt x 76.71094pt.
+<img/2024_12_03_nyquist_ortskurven.png, id=56, 367.87437pt x 375.4025pt>
+File: img/2024_12_03_nyquist_ortskurven.png Graphic file (type png)
+<use img/2024_12_03_nyquist_ortskurven.png>
+Package pdftex.def Info: img/2024_12_03_nyquist_ortskurven.png  used on input line 297.
+(pdftex.def)             Requested size: 266.14978pt x 271.6128pt.
+ [11 <./img/2024_12_03_nyquist.png> <./img/2024_12_03_nyquist_ortskurven.png>] [12] (vl.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4246 strings out of 474486
- 72493 string characters out of 5742338
- 1936542 words of memory out of 5000000
- 26512 multiletter control sequences out of 15000+600000
+ 4368 strings out of 474486
+ 74985 string characters out of 5742338
+ 1937542 words of memory out of 5000000
+ 26634 multiletter control sequences out of 15000+600000
  562659 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,7n,65p,330b,206s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\ZOBMUEL2\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\t
-crm1000.pk><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmbx10.pfb><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ZOBMUEL2/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ZOBMUEL2/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/ZOBMUEL2/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/
-ZOBMUEL2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb
-><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmr12.pfb><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmr17.pfb><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmr5.pfb><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/ZOBMUEL2/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ZOBMUEL2/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on vl.pdf (10 pages, 197212 bytes).
+ 57i,12n,65p,326b,291s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\ZOBMUEL2\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ZOBMUEL2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on vl.pdf (12 pages, 275070 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
+ 124 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

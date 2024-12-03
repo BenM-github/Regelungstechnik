@@ -13,6 +13,9 @@
 % --- manage multicols ---
 \usepackage{multicol}
 \usepackage{paracol}
+\setcolumnwidth{0.30\textwidth}
+\setlength\columnsep{20pt}
+\setlength{\columnseprule}{0.5pt}
 
 \title{Regelungstechnik  \\ [1ex] \large Fachsemester 3}
 \author{Prof. Dr.-Ing. habil. Klaus-Peter Döge}
@@ -263,6 +266,80 @@ PT2-Glied $\to$ Nicht Schwinungsfähig
 \begin{center}
 	$E(s) = W(s) - [uebertragungsfunktionen] E(s)$
 \end{center}
+
+
+\newpage
+\section*{\centering 03.12.2024}
+\subsection*{Das Nyquist-Verfahren (Thema 14)}
+\vspace{1em}
+\columnratio{0.5}
+\begin{paracol}{2}
+	\underline{Hurwitz} \\
+	Prüfung: an geschlossener Kette
+	\switchcolumn
+	\underline{Nyquist} \\
+	Prüfung: an offener Kette \\
+	Vorteil: Experimentelle Herangehensweise
+\end{paracol}
+\paragraph{Erklärung} \mbox{} \\
+\begin{figure}[ht]
+	\centering
+	\includegraphics[width=0.8\textwidth]{2024_12_03_nyquist.png}
+	\caption{Offene Regelkette}
+\end{figure}
+\[ G_0(j\omega) = \frac{X_a(j\omega)}{X_e(j\omega)} = -1 \]
+
+\vspace{1em}
+
+Der geschlossene Regelkreis ist stabil, wenn die ortskurve des Frequenzgangs der offenen Kette den kritischen Punkt nicht umschließt. Bzw. links davon sind.
+\begin{figure}[ht]
+	\centering
+	\includegraphics[width=0.6\textwidth]{2024_12_03_nyquist_ortskurven.png}
+	\caption{Niquist Ortskurven}
+\end{figure}
+
+Randnotiz: $I_1$-Glied $=\frac{1}{s} = \frac{1}{j\omega}$ \\
+Hausaufgabe: Berechnen sie die Übertragungsfunktion einer Rückgekoppelten I-Gliedes
+
+\vspace{1em}
+\begin{center}
+	\[ G_0(s) = G_R(s) \cdot G_S(s) = \frac{1}{sT_N (1+2s) (1+4s)} \]
+	$ s = \delta + j\omega$, $ \delta = 0 $
+	\[ G_0(j\omega) = \frac{1}{j\omega T_N (1+2j\omega)(1+4j\omega)} = \frac{-j\omega T_N (1-2j\omega)(1-4j\omega)}{-j\omega T_N (1-2j\omega)(1-4j\omega)} \]
+	Zähler $\to$ ausmultipliziert; Nenner $\to$ 3. Binomische Formel
+	\[ G_0(j\omega) = \frac{-6\omega^2}{\omega^2 T_N (1+4\omega^2)(1+16\omega^2)} + j \frac{-\omega + 8\omega^3}{\omega^2 T_N (1+4\omega^2)(1+16\omega^2)} \]
+	\[ G_0(j\omega) = \frac{-6}{T_N (1+4\omega^2)(1+16\omega^2)} + j \frac{8\omega^2 -1}{\omega T_N (1+4\omega^2)(1+16\omega^2)} \]
+	\[ G_0(j\omega) = -1 + 0\]
+\end{center}
+
+\paragraph{Grafische Variante des Niquist-Kriterikums} \mbox{} \\
+\begin{table}[h]
+	\centering
+	\begin{tabular}{|l||l|l|l|l|}
+	\hline
+	$\omega$ 				& Re 				& Re 					& Re 				& Im 		\\
+							& $T_N=2$			& $T_N = \frac{4}{3}$	& $T_N = 1$			&			\\
+	\hline\hline
+	0						& $-3$ 				& $-4.5$				& $-6$				& $-\infty$ \\
+	\hline
+	$\sqrt{\frac{1}{8}}$ 	& $-\frac{2}{3}$ 	& $-1$ 					& $-\frac{4}{3}$	& 0			\\
+	\hline
+	$\infty$ 				& 0					& 0						& 0					& 0			\\
+	\hline
+							& stabil			& instabil				& instabil			&			\\
+	\hline
+	\end{tabular}
+	\caption{Grafik Fehlt}
+\end{table}
+
+\paragraph{Analytische Variante des Niquist-Kriterikums}
+\begin{enumerate}
+	\item $Im\{ G_0(j\omega)\} = 0$ \\
+	$8 \omega^2-1=0$; $\omega_{kritisch} = \pm \sqrt{\frac{1}{8}}$
+	\item $Re \{ G_0(j\omega_{kritisch}) \} = -1$ \\
+	$T_{N_{kritisch}} = \frac{4}{3}$
+\end{enumerate}
+
 
 \end{document}
 
